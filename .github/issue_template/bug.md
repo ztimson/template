@@ -4,8 +4,8 @@ name: "Bug report"
 about: "Encountered an issue"
 ref: "develop"
 labels:
-- type/bug
-- refine
+- Type/Bug
+- State/Triage
 
 ---
 
@@ -26,4 +26,3 @@ But instead ...
 ```
 
 ## Screenshots
-
