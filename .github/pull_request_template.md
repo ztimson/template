@@ -1,5 +1,5 @@
 ## Description
-<!-- Details and context reviewers need to be aware of -->
+<!-- Adition information & context -->
 
 
 ## Issues
@@ -15,4 +15,3 @@
 
 <!-- Don't edit -->
 /assign me
-
