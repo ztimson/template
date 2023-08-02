@@ -1,11 +1,20 @@
+---
+
+name: "Pull Request"
+about: "Createa a new pull request"
+assignees: @self
+
+---
+
+
 ## Description
 <!-- Adition information & context -->
 
 
 ## Issues
 <!-- Issues this MR will address -->
- - owner/repo#___
- - owner/repo#___
+ - closes #___
+ - closes #___
 
 ## Checklist
 <!-- Complete this checklist after creating the MR -->
