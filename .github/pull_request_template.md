@@ -1,6 +1,3 @@
-## Description
-<!-- Details and context reviewers need to be aware of -->
-
 
 ## Issues
 <!-- Issues this MR will address -->
@@ -15,4 +12,3 @@
 
 <!-- Don't edit -->
 /assign me
-
