@@ -1,3 +1,14 @@
+---
+
+name: "Bug report"
+about: "Encountered an issue"
+ref: "develop"
+labels:
+- type/bug
+- refine
+
+---
+
 # Bug Report
 
 I tried to ...
@@ -16,19 +27,3 @@ But instead ...
 
 ## Screenshots
 
-
-## Tasks
- - [ ] Vetted by business
- - [ ] Prioritized & approved by PO
- - [ ] Refined
-   - [ ] Assigned an Epic
-   - [ ] Broken down into dev tasks
-   - [ ] Estimated wieght
-   - [ ] Adjusted labels
-     - Scope?
-     - Requires QA testing? `QA`
-     - Added `Workflow::Ready`
-     - Remove `Refine`
-
-<!-- DO NOT EDIT PAST HERE -->
-/relabel ~"Refine" ~"Type::Bug"
