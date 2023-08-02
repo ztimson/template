@@ -1,12 +1,3 @@
----
-
-name: "Pull Request"
-about: "Createa a new pull request"
-assignees: @self
-
----
-
-
 ## Description
 <!-- Adition information & context -->
 
@@ -21,6 +12,3 @@ assignees: @self
  - [ ] Linked issues above
  - [ ] Reviewed your changes
  - [ ] Commented/documented changes
-
-<!-- Don't edit -->
-/assign me
