@@ -5,10 +5,10 @@
 ## Issues
 <!-- Issues this MR will address -->
  - closes #___
- - closes #___
+ - owner/repo#___
 
 ## Checklist
 <!-- Complete this checklist after creating the MR -->
- - [ ] Linked issues above
- - [ ] Reviewed your changes
- - [ ] Commented/documented changes
+ - [ ] Linked issues
+ - [ ] Reviewed changes
+ - [ ] Updated comments/documentation
