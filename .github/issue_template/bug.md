@@ -5,7 +5,6 @@ about: "Encountered an issue"
 ref: "develop"
 labels:
 - Type/Bug
-- State/Triage
 
 ---
 
