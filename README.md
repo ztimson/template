@@ -35,7 +35,7 @@
   - [Report a Bug](https://git.zakscode.com/ztimson/template/issues/new?template=.github%2fissue_template%2fbug.md)
   - [Feature Request](https://git.zakscode.com/ztimson/template/issues/new?template=.github%2fissue_template%2fenhancement.md)
 - [About](#about)
-- [Built With](#built-with)
+  - [Built With](#built-with)
 - [Demo](#demo)
 - [Setup](#setup)
   - [Production](#production)
@@ -46,7 +46,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Built With
+### Built With
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)](https://angular.io/)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
