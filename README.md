@@ -30,10 +30,6 @@
 
 ## Table of Contents
 - [Template](#top)
-    - [Documentation](https://git.zakscode.com/ztimson/template/wiki)
-    - [Release Notes](https://git.zakscode.com/ztimson/template/releases)
-    - [Report a Bug](https://git.zakscode.com/ztimson/template/issues/new?template=.github%2fissue_template%2fbug.md)
-    - [Feature Request](https://git.zakscode.com/ztimson/template/issues/new?template=.github%2fissue_template%2fenhancement.md)
   - [About](#about)
     - [Built With](#built-with)
   - [Demo](#demo)
