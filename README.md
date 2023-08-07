@@ -111,6 +111,6 @@ Website: https://git.zakscode.com
 </details>
 
 ## License
-Copyright © 2023 Zakary Timson | All Rights Reserved
+Copyright © 2023 Zakary Timson | All Rights Reserved | Available under MIT Licensing
 
 See the [license](./LICENSE) for more information.
