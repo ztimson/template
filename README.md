@@ -61,6 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
 [![Nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs)](https://nestjs.com/)
 [![Node](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)](https://nodejs.org/)
+[![p5.js](https://img.shields.io/badge/p5.js-ed225d?style=for-the-badge&logo=p5dotjs&logoColor=white)](https://p5js.org/)
 [![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)](https://reactjs.org/)
