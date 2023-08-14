@@ -51,6 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)](https://cplusplus.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)](https://dotnet.microsoft.com/)
 [![Docker](https://img.shields.io/badge/Docker-384d54?style=for-the-badge&logo=docker)](https://docker.com/)
+[![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![HTML](https://img.shields.io/badge/HTML-FFFFFF?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 [![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=coffeescript&logoColor=F8981D)](https://java.com/)
