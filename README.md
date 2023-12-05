@@ -17,6 +17,7 @@
   [![Issues](https://img.shields.io/badge/dynamic/json.svg?label=Issues&style=for-the-badge&url=https://git.zakscode.com/api/v1/repos/ztimson/template&query=open_issues_count)](https://git.zakscode.com/ztimson/template/issues)
 
   <!-- Links -->
+
   ---
   <div>
     <a href="https://git.zakscode.com/ztimson/template/wiki" target="_blank">Documentation</a>
@@ -31,8 +32,8 @@
 ## Table of Contents
 - [Template](#top)
   - [About](#about)
+    - [Demo](#demo)
     - [Built With](#built-with)
-  - [Demo](#demo)
   - [Setup](#setup)
     - [Production](#production)
     - [Development](#development)
@@ -41,6 +42,10 @@
 ## About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Demo
+
+Website: https://git.zakscode.com
 
 ### Built With
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
@@ -69,10 +74,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte)](https://svelte.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/)
-
-# Demo
-
-Website: https://git.zakscode.com
 
 ## Setup
 
