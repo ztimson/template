@@ -55,6 +55,7 @@ Website: https://git.zakscode.com
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)](https://en.cppreference.com/w/c/language)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)](https://cplusplus.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)](https://dotnet.microsoft.com/)
+[![Django](https://img.shields.io/badge/django-0C4B33?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 [![Docker](https://img.shields.io/badge/Docker-384d54?style=for-the-badge&logo=docker)](https://docker.com/)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFFFFF?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
