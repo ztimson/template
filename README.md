@@ -89,7 +89,7 @@ Website: https://git.zakscode.com
 [![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte)](https://svelte.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows)](https://microsoft.com/windows)
-[![Vite](https://img.shields.io/badge/vite-1b1b1b?style=for-the-badge&logo=vite)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/vite-1b1b1b?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)](https://vuejs.org/)
 
 ## Setup
