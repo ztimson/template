@@ -1,5 +1,5 @@
 ## Description
-<!-- Adition information & context -->
+<!-- Addition information & context -->
 ...
 
 ## Issues
@@ -8,7 +8,7 @@
  - owner/repo#___
 
 ## Checklist
-<!-- Compelte after creating PR -->
+<!-- Complete after creating PR -->
  - [ ] Linked issues
  - [ ] Reviewed changes
  - [ ] Updated comments/documentation
