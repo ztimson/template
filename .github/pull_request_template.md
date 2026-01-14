@@ -9,7 +9,5 @@
 
 ## Checklist
 <!-- Complete after creating PR -->
- - [ ] Linked issues
- - [ ] Reviewed changes
+ - [ ] Reviewed changes (or use `Review/AI` label)
  - [ ] Updated comments/documentation
- 
