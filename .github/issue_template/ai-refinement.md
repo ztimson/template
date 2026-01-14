@@ -14,6 +14,4 @@ What are you trying to do and what's happening?
 
 How can it be fixed or improved?
 
-Steps to reproduce?
-
-Anything other useful information, logs or screenshots?
+Any other useful information? Logs, screenshots, steps to reproduce?
